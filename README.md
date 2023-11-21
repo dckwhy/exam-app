@@ -7,6 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Deskripsi
+Ashyilla Course didirikan pada tahun 2012 dengan motivasi untuk membantu meningkatkan kualitas pendidikan. Memulai dari bimbingan belajar untuk sekolah dasar, kini Ashyilla Course sudah menyediakan program bimbingan belajar mulai dari PAUD sampai ke sekolah menengah atas (SMA). Dengan dibantu dengan tutor yang terpilih dan berkualitas.
+Pada sistem ini terdapat beberapa fitur seperti kelola guru, kelola mata pelajaran, kelola soal tes, kelola siswa, pendaftaran kelas, dan monitoring yang dapat dilakukan oleh orang tua
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
